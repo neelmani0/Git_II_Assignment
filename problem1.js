@@ -11,11 +11,11 @@ for(let i=1; i<=num; i++)
 
 if(count==2)
 {
-    console.log("The number is not prime");
+    console.log("The number is  prime");
 }
 else
 {
     
-    console.log("The number Prime");
+    console.log("The number is not Prime");
 }
 
